@@ -1,0 +1,159 @@
+@media all and (min-width: 375px) and (max-width: 768px) {
+    .phone{
+        position: inherit;
+        width: 100%;
+    }
+    .slider-name {
+        position: inherit;
+        font-size: 5em;
+        width: 100%;
+        margin-top:5%;
+    }
+    .world-top {
+        text-align: center;
+    }
+    .number {
+        margin-left: 0;
+        text-align: center;
+    }
+    ul.brands li{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .brand-items {
+        margin: 0;
+    }
+    .header{
+        padding: 2% 8%;
+    }
+    .line{
+        margin: 5% 10%;
+        width:80%;
+    }
+    .three-icon{
+        color: white;
+        margin-top:20px;
+        line-height: 1.6;
+    }
+    .intro-text{
+    text-align: right;
+    width: 91%;
+    float: right;
+    margin-right: 3%;
+    margin-left: 16%;
+    margin-bottom: 10%;
+    }
+    ul.inside{
+      padding: 10px;
+        width: 100%;
+    }
+    .brand-list-title {
+        font-size: 35px;
+        margin-top: 27px;
+    }
+    .brand-background{
+        width: 150px;
+        height: 150px;
+        margin: 5% 7%;
+    }
+    .logo-brand{
+        width: 70%;
+    }
+    .brand-name {
+        font-size: 22px;
+    }
+    .brands{
+        margin: 5% 7%;
+    }
+    .order-number{
+        font-size: 35px;
+    }
+    .intro-title{
+        font-size: 40px;
+    }
+
+}
+@media all and (min-width: 320px) and (max-width: 375px) {
+    body{
+        margin-right: 0px;
+    }
+    .phone{
+        position: inherit;
+        width: 100%;
+    }
+    .slider-name {
+        position: inherit;
+        font-size: 5em;
+        width: 100%;
+        margin-top:5%;
+    }
+    .world-top {
+        text-align: center;
+    }
+    .number {
+        margin-left: 0;
+        text-align: center;
+    }
+    ul.brands li{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .brand-items {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .header{
+        padding: 2% 8%;
+    }
+    .line{
+        margin: 5% 10%;
+        width:80%;
+    }
+    .three-icon{
+        color: white;
+        margin-top:20px;
+        line-height: 1.6;
+    }
+    .intro-text{
+        text-align: right;
+        width: 91%;
+        float: right;
+        margin-right: 7%;
+        margin-left: 16%;
+        margin-bottom: 10%;
+    }
+    ul.inside{
+      padding: 10px;
+        width: 100%;
+    }
+    .brand-list-title {
+        font-size: 35px;
+        margin-top: 27px;
+    }
+    .brand-background{
+        width: 150px;
+        height: 150px;
+        margin: 5% 7%;
+    }
+    .logo-brand{
+        width: 70%;
+    }
+    .brand-name {
+        font-size: 22px;
+    }
+    .brands{
+        margin: 5% 7%;
+    }
+    .order-number{
+        font-size: 35px;
+    }
+    .intro-title{
+        font-size: 35px;
+        text-align: center;
+    }
+
+}

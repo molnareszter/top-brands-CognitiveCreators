@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin: 8% 41%;
+}
+.loginform{
+    color:#418EF6;
+    font-size: 15px;
+    font-style: italic;
+    background: transparent;
+    border-bottom: 2px solid #418EF6;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding:5px;
+}
+.loginbutton {  
+    border: 0;
+    color: white;
+    font-size: 14px;
+    width: 100px;
+    height: 23px;
+    background: #418EF6;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.instruction{
+    text-align: center;
+    margin-top: 5px;
+}
+::placeholder{
+    color: #418EF6;
+    opacity: 0.6;
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.welcome{
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 0px;
+   text-align: center;
+}
+.line{
+    background:#418EF6;
+    height: 2px;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    
+}

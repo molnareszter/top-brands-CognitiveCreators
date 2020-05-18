@@ -1,0 +1,198 @@
+body{
+    background: #1B2025;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+.slider-name {
+    font-weight: 700;
+    font-size: 13.875em;
+    color: #121519;
+    text-transform: uppercase;
+    width: 55%;
+    line-height: 0.9;
+    position: absolute;
+    top: 1.1em;
+    display: block;
+    margin: auto;
+    z-index: -1;
+}
+.header{
+    padding: 2% 5%;
+}
+.title{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.logo{
+    width: 41px;
+    height: 41px;
+}
+.logo-area{
+    float: left;
+    top: 40px;
+}
+.number{
+    margin-left: 90%;
+}
+.world-top{
+    text-align: end;
+}
+.phone{
+    float: left;
+    z-index: 1;
+    position: absolute;
+}
+.introduce{
+    width: 70%;
+    float: right;
+}
+.intro-title{
+    color: white;
+    z-index: 2;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: bold;
+    margin: 0%;
+    text-align: left;
+    margin-top: 10%;
+}
+.line{
+    background:#418EF6;
+    height: 2px;
+    width: 20%;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.intro-text{
+    color: white;
+    text-align: right;
+    width: 50%;
+    float: right;
+    margin-right: 15%;
+}
+.three-icon{
+    color: white;
+    margin-top:22%;
+    line-height: 1.6;
+}
+.list-items{
+    margin: 0 25%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    list-style: none;
+}
+.line2{
+    background:#418EF6;
+    height: 2px;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.inside{
+    list-style: none;
+    text-align: center;
+}
+.icon{
+    display: block;
+    margin: auto;
+}
+.outdata{
+    width: 300px;
+}
+.icon-bold{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    font-weight: bold;
+}
+.brand-list-title{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 55px;
+    font-weight: bold;
+    margin-top: 140px;
+    margin-bottom: 10px;
+    padding: 0;
+}
+.line3{
+    background:#418EF6;
+    height: 2px;
+    width: 18%;
+    display: block;
+    margin: auto;
+    padding: 0;
+}
+.brand-background{
+    background: white;
+    border-radius: 50%;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    -moz-box-shadow: 5px 5px 5px 3px rgba(255, 255, 255, 0.1);
+    -webkit-box-shadow: 5px 5px 5px 3px rgba(255, 255, 255, 0.1);
+    box-shadow: 5px 5px 5px 3px rgba(255, 255, 255, 0.1);
+}
+.brands{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 10%;
+}
+.order-number{
+    color: #039BE5;
+    font-size: 55px;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    font-weight: bold;
+}
+.brand-name{
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    font-weight: bold;
+}
+.line4{
+    background:#418EF6;
+    height: 2px;
+    width: 45%;
+    display: block;
+    margin: auto;
+    margin-left: 0;
+}
+.brand-items{
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-top: 70px;
+   
+}
+ul.brands li{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+ul.brands{
+    padding:0;
+    margin-bottom: 5%;
+}
+.score{
+    display: none;
+    margin-top: 45%;
+    font-weight: bold;
+    font-size: 25px;
+}
